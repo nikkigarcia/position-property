@@ -26,6 +26,7 @@
     padding: 10px;
     position: relative;
     height: 300px;
+    font-family: 'Anton', sans-serif;
 }
 .absolute{
     border: 1px solid;
